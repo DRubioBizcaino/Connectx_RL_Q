@@ -1,10 +1,13 @@
-Sample Module Repository
+Connectx_RL_Q
 ========================
 
-This simple project is an example repo for Python projects.
-
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+Created from template repository structure https://github.com/navdeep-G/samplemod
 
 ---------------
 
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+Standard python repository for implementing small Reinforcement Learning for Q learning for game of connecting checkers. 
+https://www.kaggle.com/c/connectx/overview
+
+Retired honeybadger squad:
+Aleksander Wawrzeniuk
+Dariusz Rubio Bizcaino
